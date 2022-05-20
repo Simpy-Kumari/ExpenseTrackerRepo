@@ -36,6 +36,14 @@ const App = () => {
             amount: 950,
             date: new Date(2022, 4, 8)
 
+        },
+
+        {
+            id: "en5",
+            title: "Travel",
+            amount: 560,
+            date: new Date(2022, 4, 10)
+
         }
     ];
 
