@@ -26,6 +26,12 @@ const Expenses = (props) => {
                 title={props.item[3].title}
                 amount={props.item[3].amount} />
 
+<ExpenseItems
+                date={props.item[4].date}
+                title={props.item[4].title}
+                amount={props.item[4].amount} />
+
+
         </Cart>
     );
 }
